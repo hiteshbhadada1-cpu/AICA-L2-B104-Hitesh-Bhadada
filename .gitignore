@@ -66,18 +66,18 @@ Thumbs.db
 .webdev/
 .project-config.json
 # Python
-__pycache__/
-*.pyc
+#__pycache__/
+#*.pyc
 *.pyo
-.pytest_cache/
+#.pytest_cache/
 build_venv/
 venv/
 *.egg-info/
 
 # Node / frontend
 node_modules/
-build/
-dist/
+#build/
+#dist/
 coverage/
 .DS_Store
 *.log
